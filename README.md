@@ -25,6 +25,8 @@ Java JavaScript React Node.js Flask MongoDB Linux
 🤔 I'm looking for help with debugging real-time video/WebRTC issues in my attendance system project
 💬 Ask me about web development, trading systems, or Kali Linux
 ⚡ Fun fact: I follow football closely, especially the Ballon d'Or race
+
+
 📫 Reach Me
 
 Feel free to check out my repositories and connect!
