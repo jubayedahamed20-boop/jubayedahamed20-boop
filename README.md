@@ -15,7 +15,7 @@ CSE student at BUBT, building projects in AI, web development, and trading syste
 **Smart Classroom Platform** — A full-stack online classroom app for virtual learning, assignments, and student-teacher collaboration.
  
 ## 🧰 Tech Stack
-`Java` `JavaScript` `React` `Node.js` `Flask` `MongoDB` `Linux`
+`Python` `Java` `JavaScript` `React` `Node.js` `Flask` `MongoDB` `Linux`
  
 ## 👀 More About Me
 - 🌱 I'm currently learning more about automated crypto trading (Freqtrade, ICT/SMC strategies)
